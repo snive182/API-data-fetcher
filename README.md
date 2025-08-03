@@ -10,3 +10,5 @@ python -m venv .venv
 pip install -r requirements.txt
 python src/main.py
 ```
+## 📊 Output Example
+![Output Screenshot](assets/screenshot.png)
